@@ -1,12 +1,16 @@
 # CS1331
 
-1 BirthdayCalculator.java
+1 
+- BirthdayCalculator.java
 
-2 Groceries.java
+2 
+- Groceries.java
 
-3 Calculator.java
+3 
+- Calculator.java
 
-4 SecretDecoder.java
+4 
+- SecretDecoder.java
 
 5
 - CourseSection.java

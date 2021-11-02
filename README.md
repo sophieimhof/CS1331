@@ -1,25 +1,27 @@
 # CS1331
 
-- BirthdayCalculator.java
+1 BirthdayCalculator.java
 
-- Groceries.java
+2 Groceries.java
 
-- Calculator.java
+3 Calculator.java
 
-- SecretDecoder.java
+4 SecretDecoder.java
 
+5
 - CourseSection.java
 - GtStudent.java
 
+6
 - ChargedSuperhero.java
 - FlyingSuperhero.java
 - Superhero.java
-
+7
 - AirBender.java
 - Bender.java
 - FireBender.java
 - PowerUp.java
-
+8
 - Appointment.java
 - Cat.java
 - Clinic.java
